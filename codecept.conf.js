@@ -29,7 +29,7 @@ exports.config = {
     Puppeteer: {
       url: url,
       windowSize: "1280x960",
-      show: false,
+      show: true,
       restart: true,
       chrome: {
         args: ['--no-sandbox', '--window-size=1280,960'],

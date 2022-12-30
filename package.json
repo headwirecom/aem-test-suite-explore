@@ -12,7 +12,7 @@
   "dependencies": {
     "@babel/runtime": "^7.6.3",
     "babel": "^6.23.0",
-    "codeceptjs": "^2.3.3",
+    "codeceptjs": "^3.0.0",
     "node-html-parser": "^1.1.16",
     "parse-function": "^5.2.11",
     "puppeteer": "^1.20.0"
